@@ -7,8 +7,7 @@ name: Shashank Giri
 description: 3rd yearite, Computer Science undergrad.
 
 
-#avatar:
-
+avatar: https://avatars0.githubusercontent.com/u/26007411?s=400&v=4
 
 footer-links:
 
@@ -20,7 +19,7 @@ footer-links:
 
 
 
-disqus:
+disqus: shashank98giri-github-io
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
@@ -54,7 +53,7 @@ sass:
 
 # Use the following plug-ins
 gems:
-  - jekyll-sitemap 
+  - jekyll-sitemap
   - jekyll-feed
 
 
