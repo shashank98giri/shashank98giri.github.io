@@ -11,11 +11,11 @@ avatar: https://avatars0.githubusercontent.com/u/26007411?s=400&v=4
 
 footer-links:
 
-  email:
+  email: g.shashank700@gmail.com
   facebook: shashank.giri.779
   github: shashank98giri/shashank98giri.github.io
-  twitter:
-  stackoverflow:
+  linkedin : in/shashank-giri-023b5113a/
+
 
 
 
@@ -24,7 +24,7 @@ disqus: shashank98giri-github-io
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
-url:
+url: ""
 
 baseurl: ""
 
