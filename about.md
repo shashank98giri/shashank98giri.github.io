@@ -8,7 +8,8 @@ permalink: /about/
 
 Computer Science undergrad from IIT Indore <br>
 Particularly interested in Machine Learning and Artificial Intelligence.
-<br> Also an enthusiastic problem solver. 
+<br> Also an enthusiastic problem solver.
+[resume]({{site.baseurl}}/resume.pdf)
 
 ### Contact me
 
