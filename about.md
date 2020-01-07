@@ -6,10 +6,10 @@ permalink: /about/
 
 ### More Information
 
-Final year Computer Science undergrad from Indian Institute Of Technology, Indore <br>
-Interested in everything remotely related to computers.
-<br>Also have a natural passion of solving complex problems in the silliest possible way.
-[resume]({{site.baseurl}}/docs/shashank_resume.pdf)
+Final year Computer Science undergrad studying at Indian Institute Of Technology, Indore. <br>
+Interested in everything even remotely related to computers and also enjoys solving complex problems in the simplest possible way.
+<br>
+[resume]({{site.baseurl}}/docs/resume.pdf)
 
 ### Contact me
 
